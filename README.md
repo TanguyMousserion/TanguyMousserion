@@ -43,7 +43,7 @@ Bonjour, je m'appelle **Tanguy Mousserion**, et je suis **freelance spécialisé
 
 2. [💳 **Prédiction de remboursement des emprunts**](#)
    **Contexte** : Développement d'un modèle de machine learning pour prédire la probabilité qu'un client rembourse un prêt bancaire.  
-   **Résultats** : Amélioration de la précision des décisions d'octroi de crédit avec un modèle atteignant une précision de 92 %.  
+   **Résultats** : Amélioration de la précision des décisions d'octroi de crédit avec un modèle atteignant une précision de 76 %.  
    ![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-green) ![Data Science](https://img.shields.io/badge/Workflow-Data%20Science-lightblue)
    *[Projet à découvrir ici](#)*
 
